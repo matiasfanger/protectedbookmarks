@@ -21,7 +21,7 @@ pip install protectedbookmarks-mf==0.1
 ## Usage
 
 ### For windows
-WORKING
+pip -m protectedbookmarks-mf
 
 ### Linux
 NOT TESTED
