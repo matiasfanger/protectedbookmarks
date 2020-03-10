@@ -20,6 +20,8 @@ pip install protectedbookmarks-mf
 
 ## Usage
 
+[!] DONT LOST YOUR PASSWORD OR YOU ARE NOT BE ABLE TO RECOVER THE BOOKMARKS!
+
 ### For windows
 python -m protectedbookmarks-mf
 
