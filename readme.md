@@ -12,7 +12,7 @@ This is console based. This program make my life a little bit easier, and i hope
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ProtectedBookmarks
 
 ```bash
 pip install protectedbookmarks-mf==0.1
