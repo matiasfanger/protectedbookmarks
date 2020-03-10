@@ -21,7 +21,7 @@ pip install protectedbookmarks-mf
 ## Usage
 
 ### For windows
-pip -m protectedbookmarks-mf
+python -m protectedbookmarks-mf
 
 ### Linux
 NOT TESTED
