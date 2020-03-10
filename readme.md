@@ -15,7 +15,7 @@ This is console based. This program make my life a little bit easier, and i hope
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ProtectedBookmarks
 
 ```bash
-pip install protectedbookmarks-mf==0.1
+pip install protectedbookmarks-mf
 ```
 
 ## Usage
